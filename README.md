@@ -20,3 +20,10 @@ C++ classes:
 - testovoeCharacter         // parent BP_ThirPersoneCharacter
 - TEstovoeGameMode          // parent BPTestovoeGameMode
 - TestovoeGameState         // parent BPTestovoeGameState
+
+
+Action input: 
+RMB  - Shoot
+LMB  - AIM
+E    - Pikcup
+G    - Drop
